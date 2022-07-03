@@ -25,7 +25,7 @@ SECRET_KEY = 't($8pswz-k5o!fl=$#@^6zo-$l0gk)ps6+1_h-b6cu8d*vmsm6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['http://127.0.0.1:8000','']
+ALLOWED_HOSTS = ['http://127.0.0.1:8000','mltoolandpred.herokuapp.com']
 
 
 # Application definition
